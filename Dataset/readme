@@ -1,1 +1,4 @@
-Dataset 
+Retail_data is a complete dataset of a shop. 
+The data for 6 product categories are extracted from that data.
+And after data cleaning and preprocessing, 6 datasets according to their category are created using the dataset_creation file.
+They will be used to train our model. 
